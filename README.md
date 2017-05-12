@@ -1,3 +1,8 @@
+[![servicesbanner](https://lazarodossantos.com/FILES/LAZGitLogo.jpg)
+
+[![Build Status](https://travis-ci.org/jusla3/GIT-SETUP.svg?branch=master)](https://travis-ci.org/jusla3/GIT-SETUP)
+
+
 # GIT-SETUP
 
 
